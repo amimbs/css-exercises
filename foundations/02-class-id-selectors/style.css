@@ -1,0 +1,18 @@
+.paragraph{
+    background-color: lightcoral;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+  }
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth{
+    background-color: lightgreen;
+    font-weight: bold;
+}
